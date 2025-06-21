@@ -277,6 +277,18 @@ Another one bites the dust 😎
 | Password Dump       | &#x31;&#x20;&#x55;&#x4e;&#x49;&#x4f;&#x4e;&#x20;&#x53;&#x45;&#x4c;&#x45;&#x43;&#x54;&#x20;&#x70;&#x61;&#x73;&#x73;&#x77;&#x6f;&#x72;&#x64;&#x20;&#x66;&#x72;&#x6f;&#x6d;&#x20;&#x75;&#x73;&#x65;&#x72;&#x73; |
 +---------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+Here's a clean, thematic **goodbye note** you can add right before the end of your article to wrap it up like a true bug bounty ninja:
+
+---
+
+## 👋 Final Thoughts
+
+Thanks for sticking around till the end! If this write-up helped you level up your bypass game or reminded you that **SQLi still slaps** — even in its sneaky, encoded form — then my job here is done.
+Whether you’re hunting on Bugcrowd, HackerOne, or just vibing with BurpSuite for fun, keep pushing payloads and breaking filters.
+
+Until next vuln,
+**Stay sharp, stay curious.**
+— *Aditya Bhatt*
 
 ---
 
